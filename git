@@ -1,0 +1,4 @@
+git init
+git add *
+git commit -m "커밋할 메세지 이 부분에 작성하기"
+git push -u origin master
